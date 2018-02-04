@@ -1,0 +1,2 @@
+# PyProxy-Proxy-Server
+A transport layer server for proxying HTTP/HTTPS requests with support for concurrent sessions, resource caching  using socket programming with real time logging and statistics. Supports blacklisting of IPs and handles proxy authentication using Basic Access Authentication method. Used the server to demonstrate vulnerabilities like MITM, stealing the decrypted payload of passing HTTPS requests and responses.
